@@ -1,0 +1,6 @@
+*.pdf
+*.gz
+lab5_mpi*
+/.vs
+/Debug
+*.dll
