@@ -58,8 +58,7 @@
               "RelativeToolTip": "mpi_particle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-04T05:41:07.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T05:41:07.153Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "mpi_particle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-04T05:41:05.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T05:41:05.989Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "tree.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T09:16:54.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T09:16:54.351Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "helpers.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-28T21:06:57.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T21:06:57.97Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "helpers.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-28T21:06:46.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T21:06:46.185Z"
             },
             {
               "$type": "Document",
@@ -157,7 +152,7 @@
               "RelativeDocumentMoniker": "lab5_mpi.cpp",
               "ToolTip": "E:\\Vscode Projects\\cs380p\\lab5\\lab5_mpi\\lab5_mpi.cpp",
               "RelativeToolTip": "lab5_mpi.cpp",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-27T02:11:52.522Z",
               "EditorCaption": ""
